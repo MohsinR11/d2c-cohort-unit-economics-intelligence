@@ -11,7 +11,7 @@ A fast-growing D2C health & wellness brand is scaling revenue 40% month-over-mon
 - Which acquisition channels produce customers who actually pay back their CAC?
 - Are any cohorts profitable at Month 6 or Month 12?
 - What is the true net profit per customer after returns and acquisition cost?
-- Which customers are about to churn — and which are worth saving?
+- Which customers are about to churn - and which are worth saving?
 
 This project builds a complete intelligence system to answer all four questions with data.
 
@@ -69,7 +69,7 @@ Simulated dataset modelled after a real Indian D2C brand. All data is generated 
 
 | Metric | Definition |
 |---|---|
-| **True Net Profit** | Gross Profit - Acquisition CAC − Return Costs |
+| **True Net Profit** | Gross Profit - Acquisition CAC - Return Costs |
 | **LTV:CAC Ratio** | Avg Customer Gross Profit ÷ Avg Acquisition Cost |
 | **CAC Payback Period** | Orders needed to recover acquisition cost |
 | **Cohort Retention Rate** | % of acquisition cohort still active at Month N |
@@ -101,9 +101,9 @@ Simulated dataset modelled after a real Indian D2C brand. All data is generated 
 
 3. **Payback period insight** - Direct and Organic customers pay back their acquisition cost within the first order. Influencer customers require 3 orders - most never reach that threshold.
 
-4. **Cohort profitability** - Early 2022 cohorts show 35–40% Month 6 retention. 2024 cohorts show declining retention at Month 3, suggesting product-market fit erosion or audience saturation in paid channels.
+4. **Cohort profitability** - Early 2022 cohorts show 35-40% Month 6 retention. 2024 cohorts show declining retention at Month 3, suggesting product-market fit erosion or audience saturation in paid channels.
 
-5. **Churn model** — Purchase frequency and total gross profit are the strongest churn predictors. Customers with fewer than 2 orders and GP below ₹500 have 78%+ churn probability. Early intervention at Day 45 post-purchase is recommended.
+5. **Churn model** - Purchase frequency and total gross profit are the strongest churn predictors. Customers with fewer than 2 orders and GP below ₹500 have 78%+ churn probability. Early intervention at Day 45 post-purchase is recommended.
 
 ---
 
