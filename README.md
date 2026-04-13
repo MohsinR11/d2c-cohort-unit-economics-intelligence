@@ -259,7 +259,9 @@ jupyter==1.0.0
 
 **Mohsin Raza**
 Aspiring Business / BI Data Analyst
-[LinkedIn URL] | [Email]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
 
 ---
 
